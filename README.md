@@ -1,4 +1,4 @@
-DemoSAT_2014_CosmicRay
+DemoSAT 2014 - Cosmic Ray Detector Payload
 ======================
 
-Demo SAT Summer 2014 - Cosmic Ray Detector Payload
+More content coming soon
